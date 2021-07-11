@@ -1,7 +1,7 @@
 {TODO: formatting}
 # https://womenwhogocwb.gitbook.io/letsgo/tipos-de-dados-basicos/exercicios-extras
 
-Exercício #01
+## Exercício #01
 A aplicação abaixo não compila.
 
 package main
@@ -28,7 +28,7 @@ int16, 16bits, -2^15 ~ 2^15-1
 int32, 32bits, -2^31 ~ 2^31-1
 int64, 64bits, -2^63 ~ 2^63-1
 
-Exercício #02
+## Exercício #02
 1) Dado o ano em que a pessoa nasceu, calcule quantos anos ela tem no ano atual (para fins de arredondamento, considere que ela já fez aniversário no ano atual).
 2) Como podemos pegar a informação do ano diretamente do console?
 
